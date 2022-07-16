@@ -3,7 +3,9 @@
 
 // I AM NOT DONE
 
-const NUMBER = 3;
+//it waq missing the type's const
+
+const NUMBER:i32 = 3;
 fn main() {
     println!("Number {}", NUMBER);
 }

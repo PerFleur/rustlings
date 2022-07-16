@@ -8,4 +8,6 @@ fn main() {
     println!("Spell a Number : {}", number);
     number = 3; // don't rename this variable
     println!("Number plus two is : {}", number + 2);
+
+	//In rust a varaible don't change its type dynamiquement as such as python
 }
